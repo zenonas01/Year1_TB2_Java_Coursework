@@ -1,0 +1,57 @@
+1,1,2,3,Climb to the roof.,Run to a lower level.,You are inside your apartment in Tolima City. A police investigation shows that you are the prime suspect in a quadruple homicide. You can see lots of police vehicles coming your way.,What do you choose to do?
+1,2,41,4,Try to hide behind solar panels or roof tanks.,Use the ladder to get to the ground.,-,You made it to the roof. You can hear the police coming up from the stairs. What will you do?
+1,3,5,42,Rush into the apartment next door and grab a person as a human shield.,Try to evade them and run between them to escape.,-,You find yourself in front of two policemen and their dogs. They won’t hesitate to kill. Your choice is?
+1,4,43,6,Walk around to see if the police is onto you.,Try to rob someone to get money and car.,-,While you were climbing down you came across a laundry string and grabbed a hoodie. You wore the hoodie and now police don’t know to look for a person with your appearance. What do you do now?
+1,5,7,44,Push the hostage to the police and get out from the window.,Try to attack the police and escape.,-,You maybe have the upper hand in this situation but it will not last for long. What is your next move?
+1,6,45,47,You surrendered to the authorities.,Go back to your apartment to get some important staff of yours.,-,You are successful. Now you have a respectable amount of money and a car. Your lucky only took you so far. A stolen car report in the area you lived in points out your location to the police. You can see their cars closing in to you. What will you do?
+1,7,9,46,Dump the car in a parking lot and buy new clothes from a nearby store.,Keep driving. If you get to the harbour you can escape on a fairy.,-,Luckily for you there are not many cars on the road. You might have a slight chance to escape. The police lost you but it will not last forever. What do you choose to do?
+1,8,47,10,Go back to your apartment to get some important staff of yours.,Get a taxi to take you to a nearby city. You know a guy there who can take you out of the country.,-,This will take the police off your back for a little time. How do you choose to spend your time?
+1,9,8,50,YES,NO,-,You changed your clothes. Is it time for a hair makeover as well?
+1,10,48,12,To help you lay low and stay in his house for a few days.,You want him to make you a fake passport and ID in order to get out of the country.,-,You have entered Karnataka. You quickly use some of the money you stole to buy a burner phone. You contacted your contact and you set up a meeting later that day. As soon as the sun went down you met with your guy in his photography studio. What do you request from him?
+1,11,13,49,You decided to hide in a small cave for the night.,Run away.,-,You have arrived to Karnataka. One of the boarder guards is onto you. What do you do?
+1,12,14,13,Leave airport and try to leave with a fairy.,Try to hide and spend the night at the airport.,-,Your contact have your passport and ID ready in only a few hours. You pay him and buy a plane ticket with the rest of your money. You have arrived at the airport only to find out that your flight has been cancelled. You have no money left. Only a passport and an ID. What will you do?
+1,13,49,49,Stay still he might not see me.,Try to move silently and get away.,-,You hear a nigh guard closing. You have to do something in order to not be caught. What do you do?
+1,14,43,50,Go to Tristone Ville (a huge town with high security),Leave airport and try to leave with a fairy.,-,Remember you have no money left. You decided to sell your airport ticket in order to gain some money to buy a fairy ticket. You did it! But there is no ticket for Karnataka. Where do you want to go?
+2,15,16,17,Abandoned House (inside the town),A spacious cave (half mile from the city),-,You have to choose a base of operation. Since you have no money you have to find a place where you don't need money to stay. You found two places which one do you want?
+2,16,52,18,Tell them the real reason you came to their town- and threaten them in order not to rat you out.,Pretend you are a feeble week homeless guy. To seem less suspicious?,-,You found out that the house is pretty much empty. Some of your new neighbours came to meet you. What do you do?
+2,17,19,53,Sneak up to him and assassinate him.,Let him go. He is just a shepherd.,-,It's not the most cozy place but it will do. You noticed a shepherd watching you from a distance. How do you choose to deal with this?
+2,18,54,20,The town bank.,A mini market.,-,Bravo! You deceived them. No you can focus on what you have to do. Choose where to strike next.
+2,19,57,55,Make it look supernatural- to keep the sheriff and the ME busy.,Make it look like an animal attack.,-,You killed him but you can not dump his body nearby. You have to eliminate any connection to you. You have to make it look like it wasn't a homicide. Your cause of choice?
+2,20,56,22,Buy a used car.,Buy some supplies to help you survive until your next score.,-,You have successfully robbed the mini market. You earned £5000. Were do you want to spent that money?
+2,21,23,59,Try to rob the people who visit the town.,Go rob the city hall.,-,You got the police busy. You have time to plan your next move. What would you do?
+2,22,58,60,Buy a pistol.,Buy a shotgun.,-,Good job. You have enough food to survive for a few days until the investigation is over. You have to choose a weapon to continue.What do you choose?
+2,23,25,61,Save them. You might need them in the near future.,Invest in cryptos.,-,Great job. You earned some money. What would you like to do with the money?
+2,24,58,62,No. Buy a pistol.,Yes,-,Now you are presented with a rare opportunity. Do you want a career change from just a poor low life- to a world known first class thief?
+2,25,62,61,Save them. You might need them in the near future.,No. Invest in cryptos.,-,Good choice. You heard some rumors that in a nearby town museum there will be an exhibition where the main attraction is a very old painting that can be sold for £3Million. Are you willing to play it all in?
+2,26,27,28,Police station. Lets find out more about the security.,Mayors office. We can learn critical information about the event.,-,Where do you want to go first?
+2,27,63,29,Stay longer.,I have what I need.,-,Great job. Have you learned anything or do you need to stay longer?
+2,28,64,29,Stay longer.,I have what I came for.,-,Nice job. Have you learned anything or do you need to stay longer?
+2,29,30,64,Leave for the next town and plan ahead.,Snoop around the mayors office in case you find more information.,-,Nicely done. Now you have money- weapon- and a target. What is your next move?
+2,30,65,66,I work alone.,Get a small time thief on board with your plan and proceed.,-,Great. Now you need to think if you can do it alone or if you need to recruited another pearson. What will you do?
+1,40,-1,-1,-,-,,-
+1,41,-1,-1,-,-,The police dogs can smell you. You were found by the cops and shot on the spot. You are DEAD.,-
+1,42,-1,-1,-,-,You were taken down by the dogs and killed right away. You are DEAD.,-
+1,43,-1,-1,-,-,You were recognised by a cop. You tried to run but you had been compromised and shot. You are DEAD.,-
+1,44,-1,-1,-,-,You only landed a one punch before you were torn apart by their dogs. You are DEAD.,-
+1,45,-1,-1,-,-,… You committed a quadruple homicide. You thought you had any chance of getting a trial? You are DEAD.,-
+1,46,-1,-1,-,-,Everything goes your way until you were recognised by a security guard who so your picture on a police message they received. You are DEAD.,-
+1,47,-1,-1,-,-,Your building was watching and filled with undercover cops. As soon as you get inside you are executed. You are DEAD.,-
+1,48,-1,-1,-,-,You are out of luck. Your contact sees a wanted poster of you with a huge reward. Since he was struggling he doesn’t hesitate to rat you out and collect the reward. You are DEAD.,-
+1,49,-1,-1,-,-,The guard made you. You are DEAD.,-
+2,50,51,51,-,-,Congratulations! You managed to escape Tolima. You have unlocked a new town.,-
+2,51,15,15,-,-,***Welcome to MosaicFalls*** You have arrived to MosaicFalls. It looks like no-one knows about your criminal history. This is the opportunity to get closer to achieving your goal to become thief No.1 .,-
+2,52,-1,-1,-,-,They know that you are not a threat and they inform the sheriff. The sheriff finds out about you and he is has a shoot to kill order. You are DEAD.,-
+2,53,-1,-1,-,-,You were at his mercy and now this is your doom. You are DEAD.,-
+2,54,-1,-1,-,-,You haven't stayed in the town enough to know every little detail about the bank's security. The silent alarm goes off. The sheriff deputies surrounded you. You are DEAD.,-
+2,55,-1,-1,-,-,The sheriff knew from the beginning that this wasn't an animal attack- since there are no known predators that raise to this kind of violence in the area. The search dogs find you in the cave. You are DEAD.,-
+2,56,-1,-1,-,-,It goes against your disguise (poor helpless guy). Your action rise suspicion and you are caught in your house with the rest of the money. You are DEAD.,-
+2,57,-1,-1,-,-,The attack raises suspicion and make the town wandering what could do this- but for the time being you are not one of the suspects.,-
+2,58,-1,-1,-,-,Wrong choice. If you buy a pistol the police will be able to identify you as the owner. You are DEAD,-
+2,59,-1,-1,-,-,Due to the previous event the security of the town has increased and you are caught. You are DEAD.,-
+2,60,24,24,-,-,Good choice. Now you have a weapon. You were about to start planning how you can rob the bank- but you heard some rumors that in a nearby town museum there will be an exhibition where the main attraction is a very old painting that can be sold for £3Million.,-
+2,61,-1,-1,-,-,Worst investment ever. You lost all your money. Now you will starve. You are DEAD.,-
+2,62,26,26,-,-,Okay then. You have to find out more information about this exhibition before you attempt anything.,-
+2,63,-1,-1,-,-,You stayed too long. Now you have been caught. Mission failed. You are DEAD.,-
+2,64,-1,-1,-,-,You stayed too long. Now you have been caught. Mission failed. You are DEAD.,-
+2,65,-1,-1,-,-,That is the most stupid idea you had ever. It resulted with you in handcuffs. Mission failed. You are DEAD.,-
+2,66,-2,-2,-,-,So far so good. now the path gets more difficult. LEVEL 3- COMING SOON...,-
